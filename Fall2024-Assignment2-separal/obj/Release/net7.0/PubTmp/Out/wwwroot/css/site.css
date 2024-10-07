@@ -1,0 +1,92 @@
+﻿/* style.css */
+
+body {
+    background-image: url('/background.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 6em;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Great Vibes', cursive; /* Use the Great Vibes font */
+}
+
+input#query {
+    width: 80%;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin: 10px auto;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #C8A2C8; /* Lilac color */
+    color: #fff;
+}
+
+    button#searchButton {
+        background-color: #C8A2C8; /* Lilac color */
+        color: #fff;
+    }
+
+    button#timeButton {
+        background-color: #C8A2C8; /* Lilac color */
+        color: #fff;
+    }
+
+#searchResults {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    width: 80%;
+    height: 50px; /* Smaller height initially */
+    overflow-y: hidden; /* Hide overflow initially */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: height 0.3s ease; /* Smooth transition for height change */
+}
+
+    #searchResults.expanded {
+        height: 300px; /* Expanded height for search results */
+        overflow-y: scroll; /* Enable scrolling when expanded */
+    }
+
+#time {
+    font-size: 2em; /* Increase font size for the current time */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Change the font color to dark forest green */
+body, h1, input#query, button, #searchResults, #time {
+    color: #228B22; /* Dark forest green */
+}

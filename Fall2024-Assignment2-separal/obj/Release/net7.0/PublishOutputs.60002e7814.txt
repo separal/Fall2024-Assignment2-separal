@@ -1,0 +1,7 @@
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-separal
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-separal.dll
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-separal.deps.json
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-separal.runtimeconfig.json
+/Users/sparal/Projects/Fall2024-Assignment2-separal/Fall2024-Assignment2-separal/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-separal.pdb
